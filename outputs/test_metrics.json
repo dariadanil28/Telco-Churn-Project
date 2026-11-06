@@ -1,0 +1,11 @@
+{
+  "threshold": 0.35,
+  "training_customers": 5634,
+  "test_customers": 1409,
+  "metrics": {
+    "Accuracy": 0.680624556422995,
+    "Precision (Yes)": 0.44919786096256686,
+    "Recall (Yes)": 0.8983957219251337,
+    "F1 (Yes)": 0.5989304812834224
+  }
+}
